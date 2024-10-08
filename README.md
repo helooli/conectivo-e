@@ -1,1 +1,1 @@
-# conectivo-e
+# conectivos
